@@ -14,4 +14,3 @@ buildNumber.properties
 .project
 .settings
 .DS_Store
-src/main/resources/wechat.properties
